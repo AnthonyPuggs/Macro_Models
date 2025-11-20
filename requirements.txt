@@ -1,1 +1,8 @@
 streamlit
+Pillow
+plotly
+numpy
+pandas
+quantecon
+scipy
+PIL
